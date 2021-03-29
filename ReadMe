@@ -1,0 +1,1 @@
+Bayesian Hierarchical Model implemented in Python using PyStan. Based on a paper that can be found here http://citeseerx.ist.psu.edu/viewdoc/download?doi=10.1.1.182.8659&rep=rep1&type=pdf 
